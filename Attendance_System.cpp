@@ -1,6 +1,6 @@
 #include <iostream>
-
-#include<reg51>  
+#include <conio.h>
+#includegit <reg51>  
 #include<string>  
   
 //0000 to 7FFF  
